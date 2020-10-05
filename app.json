@@ -1,0 +1,11 @@
+{
+    "expo": {
+        "name": "Kumusta Pilipinas",
+        "version": "1.0.0",
+        "slug": "your-app-slug",
+        "android": {
+            "package": "com.lopezyambalia.kumustaph",
+            "versionCode": 1
+        }
+    }
+}
